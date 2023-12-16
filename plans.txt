@@ -1,5 +1,5 @@
 - selesain basic html
-- selesain basic c#
+- selesain basic c++
 - duit
 money money money
 must be funny
