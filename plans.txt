@@ -2,3 +2,4 @@
 - selesain basic c#
 - duit
 money money money
+must be funny
